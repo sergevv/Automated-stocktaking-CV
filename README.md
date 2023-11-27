@@ -1,5 +1,9 @@
 # Automated Stocktaking using computer vision (boxes with equipment)
 
+![infrastructure of boxes detection](Infrastructure.jpg)
+
+This is initial phase of the project. Continued here: https://gitlab.com/sergevv/ds-cv-boxes
+
 Short description: chatbot that reports daily the actual availability of equipment in the warehouse (boxes with routers) using a video surveillance camera
 
 - cv_boxes_v2.py - rectangles detection with a opencv-python https://pypi.org/project/opencv-python/
